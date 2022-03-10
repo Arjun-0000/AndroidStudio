@@ -1,4 +1,0 @@
-SDK Manager
-	Tools -  all download
-security issue 
-	Add an Exclusive in the security
